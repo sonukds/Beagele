@@ -1,0 +1,23 @@
+
+.head{
+
+}
+.title{
+    height: 150px;
+    width: 90vw;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+p{
+    width: 90%;
+
+}
+.img-h{
+    margin-left: 15px;
+}
+a{
+    margin-left: 15px;
+}
+.trivia{
+    margin-left: 15px;
+}
